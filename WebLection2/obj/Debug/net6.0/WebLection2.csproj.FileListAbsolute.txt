@@ -1,0 +1,983 @@
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\appsettings.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.staticwebassets.runtime.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.exe
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.deps.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.runtimeconfig.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\WebLection2.pdb
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\MessagePack.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.AssemblyReference.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfoInputs.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfo.cs
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CoreCompileInputs.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cs
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\scopedcss\bundle\WebLection2.styles.css
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\scopedcss\projectbundle\WebLection2.bundle.scp.css
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CopyComplete
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\refint\WebLection2.dll
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.pdb
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\WebLection2.genruntimeconfig.cache
+C:\Users\VladislavKPC\source\repos\WebLection2\WebLection2\obj\Debug\net6.0\ref\WebLection2.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\appsettings.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.staticwebassets.runtime.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.exe
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.deps.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.runtimeconfig.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\WebLection2.pdb
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\MessagePack.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.csproj.AssemblyReference.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfoInputs.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfo.cs
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CoreCompileInputs.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cs
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.WebLection2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebLection2.props
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebLection2.props
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebLection2.props
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\scopedcss\bundle\WebLection2.styles.css
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\scopedcss\projectbundle\WebLection2.bundle.scp.css
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CopyComplete
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\refint\WebLection2.dll
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.pdb
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\WebLection2.genruntimeconfig.cache
+C:\Users\vodko\OneDrive\Рабочий стол\Новая папка\WebLection2\obj\Debug\net6.0\ref\WebLection2.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\appsettings.Development.json
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\appsettings.json
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.staticwebassets.runtime.json
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.exe
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.deps.json
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.runtimeconfig.json
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.pdb
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Humanizer.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\MessagePack.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\MessagePack.Annotations.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Build.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Common.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Configuration.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Frameworks.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.LibraryModel.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Packaging.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.ProjectModel.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Protocol.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Versioning.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Convention.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Hosting.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Runtime.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.TypedParts.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.AssemblyReference.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.GeneratedMSBuildEditorConfig.editorconfig
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfoInputs.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfo.cs
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CoreCompileInputs.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.MvcApplicationPartsAssemblyInfo.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cs
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.WebLection2.Microsoft.AspNetCore.StaticWebAssets.props
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebLection2.props
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebLection2.props
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebLection2.props
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.pack.json
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.build.json
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.development.json
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\bundle\WebLection2.styles.css
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\projectbundle\WebLection2.bundle.scp.css
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CopyComplete
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.dll
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\refint\WebLection2.dll
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.pdb
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.genruntimeconfig.cache
+I:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\ref\WebLection2.dll
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.dll
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\refint\WebLection2.dll
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.pdb
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\appsettings.Development.json
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\appsettings.json
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.staticwebassets.runtime.json
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.exe
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.deps.json
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.runtimeconfig.json
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\WebLection2.pdb
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Humanizer.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\MessagePack.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Build.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Common.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\data\repos\WebLab2\WebLection2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.AssemblyReference.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfoInputs.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.AssemblyInfo.cs
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CoreCompileInputs.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.MvcApplicationPartsAssemblyInfo.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.RazorAssemblyInfo.cs
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.WebLection2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebLection2.props
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebLection2.props
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebLection2.props
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.build.json
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\staticwebassets.development.json
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\bundle\WebLection2.styles.css
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\scopedcss\projectbundle\WebLection2.bundle.scp.css
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.csproj.CopyComplete
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\WebLection2.genruntimeconfig.cache
+E:\data\repos\WebLab2\WebLection2\obj\Debug\net6.0\ref\WebLection2.dll
